@@ -1,4 +1,4 @@
-# SnakeCppQt
-Classic Snake game written using the Qt framework
+# ArkanoidCppQt
+Classic Arkanoid game written using the Qt framework
 
-![](https://imgur.com/r5Gfwes.png)
+![](https://imgur.com/ujukvhc.png)
